@@ -5,3 +5,9 @@
 text
 
 ![Image of Yogitocat](https://octodex.github.com/images/yogitocat.png)
+
+```
+print("Hello World!")
+library(dplyr)
+mtcars |> filter(mpg > 20)
+```
