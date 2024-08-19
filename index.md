@@ -11,3 +11,8 @@ print("Hello World!")
 library(dplyr)
 mtcars |> filter(mpg > 20)
 ```
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+- [ ] Finalize
